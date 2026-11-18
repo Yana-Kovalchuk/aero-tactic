@@ -1,0 +1,6 @@
+mcp
+pybind11
+streamlit
+google-genai
+pyulog
+pandas

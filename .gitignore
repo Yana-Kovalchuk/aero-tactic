@@ -1,0 +1,11 @@
+venv/
+.venv/
+.env
+
+logs/
+temp_csv/
+
+.vscode/
+
+__pycache__/
+*.pyc
